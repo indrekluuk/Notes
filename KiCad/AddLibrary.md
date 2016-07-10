@@ -4,7 +4,7 @@
 
 ---
 
-2. Open Eeschema. Preferences->ComponentLibrary  
+2. Open Component Library under Eeschema. Preferences->ComponentLibrary  
 ![open library dialog](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/AddLibrary_Eeschema_menu.png)
 
 ---
