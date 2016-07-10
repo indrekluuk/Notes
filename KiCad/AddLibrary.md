@@ -14,6 +14,6 @@
 
 ---
 
-4. Place component
+4. Place component  
 ![place component](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/AddLibrary_Eeschema_place.png)
 
