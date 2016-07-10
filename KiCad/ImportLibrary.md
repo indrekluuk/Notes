@@ -8,7 +8,7 @@
 ---
 
 - Open Component Library under Eeschema. Preferences->ComponentLibrary  
-![open library dialog](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/AddLibrary_Eeschema_menu.png)
+![open library dialog](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/ImportLibrary_Eeschema_menu.png)
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 ---
 
 - Add .lib  
-![add .lib](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/AddLibrary_Eeschema_libraries.png)
+![add .lib](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/ImportLibrary_Eeschema_libraries.png)
 
 <br/>
 <br/>
@@ -24,5 +24,5 @@
 ---
 
 - Place component  
-![place component](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/AddLibrary_Eeschema_place.png)
+![place component](https://raw.githubusercontent.com/indrekluuk/Notes/master/KiCad/images/ImportLibrary_Eeschema_place.png)
 
