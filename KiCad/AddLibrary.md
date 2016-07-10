@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<br/>
+<br/>  
 ---
 
 - Open Component Library under Eeschema. Preferences->ComponentLibrary  
@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-<br/>
+<br/>  
 ---
 
 - Place component  
